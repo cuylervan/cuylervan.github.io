@@ -10,3 +10,31 @@ h1 {
     font-family: Serif;
     font-weight: bold;
 }
+
+h2 {
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration:underline;
+}
+
+p, ol{
+    width:550px;
+    padding-top:10px;
+    padding-botton:10px;
+
+}
+ol{
+    background-color:#FFCC99;
+}
+ul{
+    background-color:#CCFFCC;
+}
+li{
+    font-style:italic;
+}
+a {
+    text-decoration:none;
+}
+a:hover {
+    color:#33ff33;
+}
