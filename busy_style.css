@@ -38,7 +38,7 @@ a {
 a:hover {
     color:#33ff33;
 }
-ul li:odd {
+ul li:nth-child(odd) {
     background-color:white;
     width: 500px;
 }
