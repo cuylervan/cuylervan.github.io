@@ -20,7 +20,7 @@ h2 {
 p, ol{
     width:550px;
     padding-top:10px;
-    padding-botton:10px;
+    padding-bottom:10px;
 
 }
 ol{
@@ -37,4 +37,8 @@ a {
 }
 a:hover {
     color:#33ff33;
+}
+ul li:odd {
+    background-color:white;
+    width: 500px;
 }
