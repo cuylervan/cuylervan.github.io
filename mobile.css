@@ -3,7 +3,11 @@
 body {
     padding-top: 5px;
 }
-
+.starter-template {
+    top: 75px;
+    font-family: cursive;
+   
+}
 @media (max-width: 480px) { 
         body {
           font-size: 20px;
